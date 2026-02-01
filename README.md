@@ -1,11 +1,11 @@
 # Gizu Region Vegetation Dynamics Monitor
-
+![Gizu App Demo](GEE%20Gizu%20Demo.gif)
 
 ## Overview
 This project provides an automated, interactive dashboard for monitoring rangeland health in the Gizu region of Sudan. This tool leverages satellite time-series data to identify critical grazing windows and inter-annual variability.
 
 ## Demo / Example
-* **Live App:** [Gizu Region NDVI Monitor](https://develop-gee-workshops.users.earthengine.app/view/gizu-region-ndvi)
+* **Live App:** [https://ee-markolann.projects.earthengine.app/view/gee-gizu-demo-ndvi]
 * **Interactive Features:** Users can click any location on the map to generate a 2-year NDVI phenology chart, providing a high-resolution look at seasonal vegetation trends.
 
 ## Data Sources
