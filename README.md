@@ -1,5 +1,5 @@
 # Gizu Region Vegetation Dynamics Monitor
-![Gizu App Demo](GEE%20Giza%20App.gif)
+
 
 ## Overview
 This project provides an automated, interactive dashboard for monitoring rangeland health in the Gizu region of Sudan. This tool leverages satellite time-series data to identify critical grazing windows and inter-annual variability.
